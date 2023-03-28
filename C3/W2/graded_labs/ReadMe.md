@@ -1,1 +1,1 @@
-visualize meta.tsv and ****.tsv using the link ******
+visualize meta.tsv and vecs.tsv using the link ******
